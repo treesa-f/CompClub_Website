@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: 1.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Outreach Workshops
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  We provide a variety of workshops to schools all over sydney covering a range of topics including Virtual Reality, Web Development, Game Development etc. Contact us to book a workshop for your school!

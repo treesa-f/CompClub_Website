@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: 3.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Summer School
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+During the summer holidays, CompClub runs a free 5 day summer school with each day covering a different aspect of computing.
