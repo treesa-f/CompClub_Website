@@ -177,3 +177,9 @@ p.copyright {
 #services .container{
     padding-bottom: 50px;
 }
+
+#socials{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
