@@ -179,7 +179,19 @@ p.copyright {
 }
 
 #socials{
+    background-color: rgba(0,0,0,0.4);
     position: fixed;
-    top: 0px;
-    left: 0px;
+    top: calc(100vh / 2);
+    right: 0px;
+}
+
+#socials .btn,
+#socials .btn-default 
+#socials .btn-lg{
+    padding: 0px 8px 0px 14px;
+    color: #fff;
+}
+
+#socials a{
+    background-color: none;
 }
