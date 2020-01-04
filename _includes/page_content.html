@@ -1,7 +1,7 @@
 <section id="services">
 <!-- Page Content -->
 <div class="content-section-a">
-    <h1 class="text-center">Our Workshops</h1>
+    <h1 class="text-center" style="padding-bottom: 20px;">Our Workshops</h1>
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
