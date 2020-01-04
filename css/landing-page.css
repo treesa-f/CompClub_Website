@@ -190,6 +190,15 @@ p.copyright {
 #socials .btn-lg{
     padding: 0px 8px 0px 14px;
     color: #fff;
+    background-color: none;
+}
+
+#socials .btn:hover,
+#socials .btn-default:hover,
+#socials .btn-lg:hover{
+    padding: 0px 8px 0px 14px;
+    color: #fff;
+    background-color: none;
 }
 
 #socials a{
