@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 1.png
+img: 1.jpg
 category: Services
 title: Outreach Workshops
 description: |
