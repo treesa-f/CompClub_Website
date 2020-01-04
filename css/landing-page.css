@@ -21,6 +21,11 @@ h6 {
     font-weight: 700;
 }
 
+.logo{
+    display: inline-block;
+    height: 100%;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
