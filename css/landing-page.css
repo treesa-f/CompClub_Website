@@ -185,20 +185,28 @@ p.copyright {
     right: 0px;
 }
 
+#socials ul{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+
 #socials .btn,
 #socials .btn-default 
 #socials .btn-lg{
-    padding: 0px 8px 0px 14px;
+    padding: 20px 8px 0px 14px;
     color: #fff;
-    background-color: none;
+    background-color: unset;
+    border: unset;
 }
 
 #socials .btn:hover,
 #socials .btn-default:hover,
 #socials .btn-lg:hover{
-    padding: 0px 8px 0px 14px;
+    padding: 20px 8px 0px 14px;
     color: #fff;
-    background-color: none;
+    background-color: unset;
+    border: unset;
 }
 
 #socials a{
