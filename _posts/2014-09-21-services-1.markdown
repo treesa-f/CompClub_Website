@@ -5,4 +5,4 @@ category: Services
 title: Outreach Workshops
 description: |
 ---
-  We provide a variety of workshops to schools all over sydney covering a range of topics including Virtual Reality, Web Development, Game Development etc. Contact us to book a workshop for your school!
+  We provide a variety of workshops to schools all over sydney covering a range of topics including: introduction to programming, virtual reality, web development, game development and cyber security. We cater for both beginner and intermediate level of ability across students in yr 7-12. Contact us to book a workshop for your school!
