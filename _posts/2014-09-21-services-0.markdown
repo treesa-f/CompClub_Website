@@ -10,4 +10,4 @@ description: |
   - Cyber Security
   - Web Development
  
- You can find all of the information about it here: [Winter 2020 Workshop](/winter2020)
+ You can find all of the information about it here: [Winter 2020 Workshop]()
