@@ -2,7 +2,7 @@
 layout: default
 img: 1.jpg
 category: Services
-title: Winter Virtual Workshops
+title: 2020 Winter Virtual Workshops
 description: |
 ---
-  We provide a variety of workshops to schools all over sydney covering a range of topics including: introduction to programming, virtual reality, web development, game development and cyber security. We cater for both beginner and intermediate level of ability across students in yr 7-12. Contact us to book a workshop for your school!
+  This year we will be providing 3 workshops in an online format instead of in person! You can find all of the information about it here: http://2020.compclub.com.au/winter2020
