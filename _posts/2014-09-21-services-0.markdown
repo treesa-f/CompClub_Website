@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 1.jpg
+img: CompClub_Winter_Workshop_Logo.png
 category: Services
 title: 2020 Winter Virtual Workshops
 description: |
