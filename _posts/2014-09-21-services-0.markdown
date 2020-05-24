@@ -14,5 +14,5 @@ There will also be a livestream covering an introduction to Python during the ho
 
 There is no registration needed and is open to all high school students of any ability.  We will be releasing the virtual workshop site closer to the Winter School Holidays, and will update the link here once it is ready!
 
-If you are looking for a flyer, here's one we prepared earlier!
+If you are looking for a flyer, [here's one we prepared earlier!](img/UNSW CSESoc CompClub Virtual Winter Flyer.pdf)
 
