@@ -5,10 +5,10 @@ category: Services
 title: 2020 Virtual Winter Workshops
 description: |
 ---
-  This year we will be providing 3 workshops in an online format instead of in person! We will have a series of videos covering the three workshops on: 
-  - Game Development
+  This year we will be providing 3 workshops in an online format instead of in person! We will have a series of videos covering three workshops: 
+  - Game Development (HTML/CSS)
   - Cyber Security
-  - Web Development
+  - Web Development (Javascript)
  
 There will also be a livestream covering an introduction to Python during the holidays (date TBD), where students can take part and ask questions in real time! We will be releasing the workshop videos on a schedule, starting on Monday 6th July. 
 
