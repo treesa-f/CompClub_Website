@@ -10,9 +10,9 @@ description: |
   - Cyber Security
   - Web Development (Javascript)
  
-There will also be a livestream covering an introduction to Python during the holidays (date TBD), where students can take part and ask questions in real time! We will be releasing the workshop videos on a schedule, starting on Monday 6th July. 
+There will also be a livestream covering an introduction to Python during the holidays, where students can take part and ask questions in real time! We will be releasing the workshop videos on a schedule, starting on Monday 6th July. 
 
-There is no cost or registration needed and is open to all high school students of any ability.  We will be releasing the virtual workshop site closer to the Winter School Holidays, and will update the link here once it is ready!
+There is no cost or registration needed and is open to all high school students of any ability.  We will be releasing the virtual workshop on our new site: https://compclub.csesoc.unsw.edu.au Simply make an account and you will be able to access the workshops once released!
 
 If you are looking for a flyer, [here's one we prepared earlier!](img/UNSW CSESoc CompClub Virtual Winter Flyer.pdf)
 
